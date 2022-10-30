@@ -6,6 +6,6 @@
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Телеком](telecom) | Анализ данных и моделирование оттока клиентов. Учебный проект. | *Python pandas, plotly, numpy, matplotlib, datetime, scikit learn, seaborn, Phi_k, catboost* |
-| [Игровая индустрия]| Анализ игровой индустрии, построение портрета пользователя. Учебный проект. | *Python pandas, plotly, numpy, matplotlib, scipy* |
-| [Нефтяная скважина]| Определение наиболее выгодного региона нефтедобычи. Учебный проект. | *pandas, plotly, numpy, matplotlib, scikit learn* |
+| [Игровая индустрия](game_analysis)| Анализ игровой индустрии, построение портрета пользователя. Учебный проект. | *Python pandas, plotly, numpy, matplotlib, scipy* |
+| [Нефтяная скважина](business_analysis)| Определение наиболее выгодного региона нефтедобычи. Учебный проект. | *pandas, plotly, numpy, matplotlib, scikit learn* |
 
