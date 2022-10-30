@@ -6,4 +6,5 @@
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Телеком](telecom) | Анализ данных и моделирование оттока клиентов | *pandas, plotly, numpy, matplotlib, datetime, scikit learn, seaborn, Phi_k, catboost* |
-| [Игровая индустрия](game_analys) | Анализ игровой индустрии, построение портрета пользователя | *Python pandas, plotly, numpy, matplotlib, scipy* |
+| [Игровая индустрия](game_analysis) | Анализ игровой индустрии, построение портрета пользователя | *Python pandas, plotly, numpy, matplotlib, scipy* |
+| [Нефтяная скважина] (business_analysis) | Определение наиболее выгодного региона нефтедобычи | *pandas, plotly, numpy, matplotlib, scikit learn* |
